@@ -1,7 +1,5 @@
 # Screen-A-Lender
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
-
 **Have you ever tried to find a lender and struggled to separate the silt from the gold?**
 *If so, then Screen-A-Lender is designed for you!*
 
@@ -13,8 +11,6 @@ This allows you to upload your list of every lender into the app, your basic fin
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
-
 This app utilizes the following:
 -Python (version 7.3.10 or higher)
 -Fire (python libarary)
@@ -25,8 +21,6 @@ This app utilizes the following:
 ---
 
 ## Installation Guide & Usage
-
-In this section, you should include detailed installation notes containing code blocks and screenshots.
 
 **The following will provide instruction on how to access and use this software**
 
@@ -77,9 +71,11 @@ share the results as a spreadsheet.
 ## Contributors
 
 In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
+Created by ZrowGz || Twitter: @ZrowGz || LinkedIn: www.linkedin.com/in/eamon-conheady
+codebase and instructions provided by UW FinTech Course, 2021
 
 ---
 
 ## License
 
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+My code here is released as open source. Please feel free to utilize it in a positive, constructive manner, but just give credit if you do. And, if you make money off this thing, send some my way. *My code is defined as the portion added after the initial codebase commit, if you want that, you'll have to talk to the University of Washington about that...*
