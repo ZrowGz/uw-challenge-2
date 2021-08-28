@@ -12,11 +12,11 @@ This allows you to upload your list of every lender into the app, your basic fin
 ## Technologies
 
 This app utilizes the following:
--Python (version 7.3.10 or higher)
--Fire (python libarary)
--Questionary (python library)
--Basic user skills with your Command Line Interface (CLI), see below for details
--A list of all possible lenders saved as a .csv file
+- Python (version 7.3.10 or higher)
+- Fire (python libarary)
+- Questionary (python library)
+- Basic user skills with your Command Line Interface (CLI), see below for details
+- A list of all possible lenders saved as a .csv file
 
 ---
 
