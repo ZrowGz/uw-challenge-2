@@ -102,6 +102,7 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
 
     return bank_data_filtered
 
+
 def save_qualifying_loans(qualifying_loans):
     """Saves the qualifying loans to a CSV file.
 
@@ -111,11 +112,14 @@ def save_qualifying_loans(qualifying_loans):
     # @TODO: Complete the usability dialog for savings the CSV Files.
     # YOUR CODE HERE!
     
+    # Determine whether the user wishes to save the results.
     file_save = questionary.confirm("Save the list of lenders?", default=True).ask()
-        
+
+    # Determine the location to save the output file and completes that action    
     if file_save == True:
         csvpath = questionary.text("Enter the save path and name.").ask()
         save_csv(csvpath, qualifying_loans)
+
 
 def run():
     """The main function for running the script."""
