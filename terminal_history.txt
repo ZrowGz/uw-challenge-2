@@ -1,0 +1,969 @@
+   50  pip3 install pip3 --zrowgz
+   51  pip3 install pip3
+   52  pip install pip3
+   53  upgrade pip
+   54  pip install pip3
+   55  ls
+   56  ls -a
+   57  python get-pip.py --user
+   58  python -V
+   59  pip -V
+   60  cd ../../../site-packages
+   61  cd site-packages
+   62  curl "https://nodejs.org/dist/latest/node-${VERSION:-$(wget -qO- https://nodejs.org/dist/latest/ | sed -nE 's|.*>node-(.*)\.pkg</a>.*|\1|p')}.pkg" > "$HOME/Downloads/node-latest.pkg" && sudo installer -store -pkg "$HOME/Downloads/node-latest.pkg" -target "/"\n
+   63  brew install node
+   64  brew postinstall node
+   65  brew postinstall --debug
+   66  brew postinstall -d
+   67  brew postinstall -d\nUsage: brew postinstall installed_formula [...]\n\nRerun the post-install steps for formula.\n\n  -d, --debug                      Display any debugging information.\n  -q, --quiet                      Make some output more quiet.\n  -v, --verbose                    Make some output more verbose.\n  -h, --help                       Show this message.\n\nError: Invalid usage: This command requires at least 1 installed formula argument.\n
+   68  brew list
+   69  python -v
+   70  gcc
+   71  gcc --version
+   72  xcode-select -p
+   73  xcodebuild -version
+   74  /usr/bin/xcodebuild -version
+   75  xcode-select -p
+   76  node -v
+   77  pwd
+   78  cd /
+   79  cd usr
+   80  cd local
+   81  cd include
+   82  ls
+   83  rm -R node
+   84  node -v
+   85  brew doctor
+   86  xcode-select -v
+   87  xcode -v
+   88  gcc
+   89  make
+   90  xcode-select -p
+   91  xcode-select --install
+   92  brew install pyenv
+   93  pyenv install 3.9.6
+   94  pyenv versions
+   95  pwd
+   96  cd Desktop
+   97  pwd
+   98  mkdir intro-to-node
+   99  cd intro-to-node
+  100  ls
+  101  touch index.js
+  102  ls
+  103  node index.js
+  104  node index.js
+  105  node
+  106  node
+  107  clear
+  108  node index.js
+  109  ls
+  110  node index.js
+  111  clear
+  112  npm init
+  113  npm install superheroes
+  114  node index.js
+  115  node index.js
+  116  node index.js
+  117  node index.js
+  118  npm install supervillains
+  119  node index.js
+  120  node index.js
+  121  node index.js
+  122  node index.js
+  123  node index.js
+  124  node index.js
+  125  node index.js
+  126  node index.js
+  127  node index.js
+  128  node index.js
+  129  node index.js
+  130  node index.js
+  131  node index.js
+  132  node index.js
+  133  npm install supervillains
+  134  node index.js
+  135  node index.js
+  136  node index.js
+  137  node index.js
+  138  node index.js
+  139  node index.js
+  140  node index.js
+  141  node index.js
+  142  node index.js
+  143  node index.js
+  144  cd /
+  145  mkdir my-express-server
+  146  cd /my-express-server
+  147  cd my-express-server
+  148  mkfil
+  149  touch server.js
+  150  ls
+  151  npm server.js
+  152  cd /
+  153  ls
+  154  cd desktop
+  155  cd Users
+  156  ls
+  157  cd zrowgz
+  158  ls
+  159  cd Desktop
+  160  mkdir my-express-server
+  161  cd my-express-server
+  162  touch server.js
+  163  npm server.js
+  164  npm init
+  165  atom .
+  166  npm install express
+  167  node server.js
+  168  node server.js
+  169  node server.js
+  170  cd Desktop
+  171  mkdir story
+  172  las
+  173  ls
+  174  cd story
+  175  ls
+  176  touch chapter1.txt
+  177  open chapter1.txt
+  178  git init
+  179  sudo xcodebuild -license
+  180  sudo xcodebuild -license
+  181  git init
+  182  ls -a
+  183  git status
+  184  git add chapter1.txt
+  185  git status
+  186  git commit -m "Complete Chapter 1"
+  187  touch chapter2.txt
+  188  touch chapter3.txt
+  189  git status
+  190  git add .
+  191  git status
+  192  git commit -m "Complete chapters 2 & 3"
+  193  git config --global user.name "z"
+  194  git status
+  195  git status
+  196  git diff chapter3.txt
+  197  git checkout chapter3.txt
+  198  git log
+  199  git remote add origin https://github.com/ZrowGz/story.git
+  200  git push -u origin master
+  201  git status
+  202  git commit chapter3.txt -m "Re-committing."
+  203  git config --global user.email "zrowgz@hotmail.com"
+  204  git config --global user.name "zrowgz"
+  205  git commit chapter3.txt -m "Re-committing."
+  206  git commit .
+  207  git commit chapter2.txt 
+  208  cd Desktop
+  209  cd story
+  210   ls
+  211  git status
+  212  git commit chapter1.txt -m "Recommitting."
+  213  git commit chapter2.txt -m "Recommitting."
+  214  git status
+  215  git log
+  216  git remote add origin https://github.com/ZrowGz/story.git
+  217  git push -u origin main
+  218  git branch -M main
+  219  git push -u origin main
+  220  cd .
+  221  cd ./
+  222  cd /Desktop
+  223  cd
+  224  cd /Desktop
+  225  cd Desktop
+  226  mkdir project
+  227  touch file1.txt
+  228  touch file2.txt
+  229  cd project
+  230  touch file1.txt
+  231  touch file2.txt
+  232  touch file3.txt
+  233  touch secrets.txt
+  234  ls
+  235  ls -a
+  236  touch .gitignore
+  237  ls -a
+  238  open .gitignore
+  239  git init
+  240  git add .
+  241  git
+  242   git status
+  243  git rm --cached -r .
+  244  git status
+  245  git add .
+  246  git status
+  247  git comomit -m "Initial Commit."
+  248  git commit -m "Initial Commit."
+  249  git status
+  250  git log
+  251  git clone gh repo clone austinzheng/swift-2048
+  252  git clone gh repo clone austinzheng/swift-2048
+  253  ls
+  254  git clone gh repo clone austinzheng/swift-2048https://github.com/austinzheng/swift-2048.git
+  255  git clone https://github.com/austinzheng/swift-2048.git
+  256  cd swift-2948
+  257  cd swift-2048
+  258  git log
+  259  cd Desktop
+  260  cd story
+  261  git log
+  262  git branch alien-plot
+  263  git log
+  264  git branch
+  265  git checkout alien-plot
+  266  git add .
+  267  git commit -m "Modify chapter 1 & 2."
+  268  git log
+  269  git branch
+  270  git checkout main
+  271  touch chapter4.txt
+  272  git add .
+  273  git commit -m "Add chapter 4"
+  274  git log
+  275  git checkout alien-plot
+  276  git checkout main
+  277  git merge alien-plot
+  278  git branch
+  279  git log
+  280  git push origin main
+  281  ls -al ~/.ssh
+  282  ssh-keygen -t rsa -b 4096 -C "zrowgz@hotmail.com"
+  283  eval "$(ssh-agent -s)"
+  284  ssh-add ~/.ssh/id_rsa
+  285  pbcopy < ~/.ssh/id_rsa.pub
+  286  ssh -T git! 
+  287  ssh -T git@github.com
+  288  python -v
+  289  python -v
+  290  python --version
+  291  conda --version
+  292  conda update conda
+  293  conda update anaconda
+  294  conda create -n dev python=3.7 anaconda
+  295  conda activate dev
+  296  conda deactivate
+  297  conda init bash
+  298  conda init zsh
+  299  echo # {SHELL}e
+  300  conda activate devc
+  301  conda activate dev
+  302  conda init bash
+  303  python -m ipykernal install --user --name dev
+  304  python -m ipykernel install --user --name dev
+  305  conda install -c conda-forge nodejs
+  306  jupyter
+  307  jupyter lab
+  308  conda deactivate
+  309  pwd
+  310  ls
+  311  cd Desktop
+  312  pwd
+  313  ls
+  314  mkdir fintech-workspace
+  315  ls
+  316  cd fintech-workspace
+  317  cd ..
+  318  ls
+  319  cd ~
+  320  ls
+  321  cd Desktop
+  322  ls
+  323  cd fintech-workspace
+  324  ls
+  325  cd python-project
+  326  cd python_project
+  327  ls
+  328  conda activate dev
+  329  python --version
+  330   code .
+  331  code .
+  332  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  333  /usr/local/bin/python3
+  334  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/03_The_401k_Shuffle/Unsolved/percent_increase.py
+  335  source /Users/zrowgz/opt/anaconda3/bin/activate
+  336  conda activate dev
+  337  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/03_The_401k_Shuffle/Unsolved/percent_increase.py
+  338  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/03_The_401k_Shuffle/Unsolved/percent_increase.py
+  339  source /Users/zrowgz/opt/anaconda3/bin/activate
+  340  conda activate dev
+  341  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/03_The_401k_Shuffle/Unsolved/manipulation_exercise.py
+  342  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/03_The_401k_Shuffle/Unsolved/manipulation_exercise.py
+  343  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/03_The_401k_Shuffle/Unsolved/manipulation_exercise.py
+  344  source /Users/zrowgz/opt/anaconda3/bin/activate
+  345  conda activate dev
+  346  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/03_The_401k_Shuffle/Unsolved/manipulation_exercise.py
+  347  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/03_The_401k_Shuffle/Unsolved/manipulation_exercise.py
+  348  source /Users/zrowgz/opt/anaconda3/bin/activate
+  349  conda activate dev
+  350  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/03_The_401k_Shuffle/Unsolved/manipulation_exercise.py
+  351  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/03_The_401k_Shuffle/Unsolved/manipulation_exercise.py
+  352  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/03_The_401k_Shuffle/Unsolved/manipulation_exercise.py
+  353  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/03_The_401k_Shuffle/Unsolved/manipulation_exercise.py
+  354  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/classwork/Class_1_Activities/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py
+  355  source /Users/zrowgz/opt/anaconda3/bin/activate
+  356  conda activate dev
+  357  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/classwork/Class_1_Activities/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py
+  358  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/classwork/Class_1_Activities/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py
+  359  source /Users/zrowgz/opt/anaconda3/bin/activate
+  360  conda activate dev
+  361  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/classwork/Class_1_Activities/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py
+  362  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/classwork/Class_1_Activities/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py
+  363  source /Users/zrowgz/opt/anaconda3/bin/activate
+  364  conda activate dev
+  365  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/classwork/Class_1_Activities/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py
+  366  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/classwork/Class_1_Activities/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py
+  367  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/classwork/Class_1_Activities/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py
+  368  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/01_Conditional_Statement/Unsolved/conditional_statement.py
+  369  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/01_Conditional_Statement/Unsolved/conditional_statement.py
+  370  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/01_Conditional_Statement/Unsolved/conditional_statement.py
+  371  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/01_Conditional_Statement/Unsolved/conditional_statement.py
+  372  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/01_Conditional_Statement/Unsolved/conditional_statement.py
+  373  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/01_Conditional_Statement/Unsolved/conditional_statement.py
+  374  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/01_Conditional_Statement/Unsolved/conditional_statement.py
+  375  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/01_Conditional_Statement/Unsolved/conditional_statement.py
+  376  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/01_Conditional_Statement/Unsolved/conditional_statement.py
+  377  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/01_Conditional_Statement/Unsolved/conditional_statement.py
+  378  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/01_Conditional_Statement/Unsolved/conditional_statement.py
+  379  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/01_Conditional_Statement/Unsolved/conditional_statement.py
+  380  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  381  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  382  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  383  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  384  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  385  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  386  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  387  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  388  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  389  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  390  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  391  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  392  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  393  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  394  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  395  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  396  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  397  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/Class_2_Activities/06_Ins_Functions/Unsolved/functions.py
+  398  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/Class_2_Activities/06_Ins_Functions/Unsolved/functions.py
+  399  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/Class_2_Activities/06_Ins_Functions/Unsolved/functions.py
+  400  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/Class_2_Activities/06_Ins_Functions/Unsolved/functions.py
+  401  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/Class_2_Activities/08_Ins_Loops/Solved/loops.py
+  402  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  403  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  404  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  405  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  406  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  407  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  408  cd Desktop
+  409  cd fintech-workspace
+  410  cd python_project
+  411  conda activate dev
+  412  python --version
+  413  code .
+  414  python hello_python.py
+  415  conda deactivate
+  416  cd ..
+  417  ls
+  418  cd 01_Hello_Variable_World
+  419  ls
+  420  cd Unsolved
+  421  ls
+  422  python hello_variable_world.py
+  423  code .
+  424  python hello_variable_world.py
+  425  python hello_variable_world.py
+  426  python hello_variable_world.py
+  427  python hello_variable_world.py
+  428  python hello_variable_world.py
+  429  cd .. 
+  430  cd .. 
+  431  ls
+  432  cd 02_Listing_Assets
+  433  ls
+  434  cd Unsolved
+  435  code .
+  436  python listing_assets.py
+  437  python listing_assets.py
+  438  python listing_assets.py
+  439  cd ..
+  440  cd .. 
+  441  ls
+  442  cd 03_The_401k_Shuffle
+  443  ls
+  444  cd Unsolved
+  445  ls
+  446  code .
+  447  python the_401k_shuffle.py
+  448  python the_401k_shuffle.py
+  449  ls
+  450  python percent_increase.py
+  451  conda activate dev
+  452  python percent_increase.py
+  453  conda deactivate
+  454  curl --version
+  455  curl -L https://github.com/rocket-pool/smartnode-install/releases/latest/download/rocketpool-cli-linux-amd64 --create-dirs -o ~/bin/rocketpool && chmod +x ~/bin/rocketpool
+  456  rocketpool
+  457  run rocketpool
+  458  source .profile
+  459  ls
+  460  cd Applications
+  461  curl -L https://github.com/rocket-pool/smartnode-install/releases/latest/download/rocketpool-cli-linux-amd64 --create-dirs -o ~/bin/rocketpool && chmod +x ~/bin/rocketpool
+  462  cd Applications
+  463  rocketpool
+  464  ls
+  465  cd . 
+  466  cd .. 
+  467  ls
+  468  ls -a
+  469  cd Applications
+  470  ls -a
+  471  cd Desktop
+  472  cd ..
+  473  cd Desktop
+  474  curl -L https://github.com/rocket-pool/smartnode-install/releases/latest/download/rocketpool-cli-linux-amd64 --create-dirs -o ~/bin/rocketpool && chmod +x ~/bin/rocketpool
+  475  rocketpool
+  476  run rocketpool
+  477  cd /
+  478  ls
+  479  cd usr
+  480  ls
+  481  cd bin
+  482  ls
+  483  rocketpool
+  484  ls -a
+  485  curl -L https://github.com/rocket-pool/smartnode-install/releases/latest/download/rocketpool-cli-darwin-amd64 -o /usr/local/bin/rocketpool && chmod +x /usr/local/bin/rocketpool\n
+  486  rocketpool
+  487  rocketpool
+  488  cd /
+  489  ls
+  490  cd Users
+  491  ls
+  492  ls -a
+  493  cd .
+  494  ls
+  495  cd zrowgz
+  496  ls
+  497  ls -a
+  498  cd .ssh
+  499  ls
+  500  cd .. 
+  501  ls
+  502  ls -a
+  503  .bash_profile
+  504  cd .bash_profile
+  505  open .bash_profile
+  506  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  507  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  508  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  509  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  510  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/01_A_Definitive_Buy/Unsolved/addFunction.py
+  511  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/01_A_Definitive_Buy/Unsolved/addFunction.py
+  512  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/01_A_Definitive_Buy/Unsolved/addFunction.py
+  513  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/01_A_Definitive_Buy/Unsolved/addFunction.py
+  514  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/01_A_Definitive_Buy/Unsolved/addFunction.py
+  515  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/01_A_Definitive_Buy/Unsolved/addFunction.py
+  516  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/01_A_Definitive_Buy/Unsolved/addFunction.py
+  517  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/01_A_Definitive_Buy/Unsolved/addFunction.py
+  518  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/01_A_Definitive_Buy/Unsolved/addFunction.py
+  519  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/01_A_Definitive_Buy/Unsolved/addFunction.py
+  520  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/01_A_Definitive_Buy/Unsolved/addFunction.py
+  521  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Returned_Goods/Unsolved/returned_goods.py
+  522  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Returned_Goods/Unsolved/returned_goods.py
+  523  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Returned_Goods/Unsolved/returned_goods.py
+  524  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Returned_Goods/Unsolved/returned_goods.py
+  525  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Returned_Goods/Unsolved/returned_goods.py
+  526  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Returned_Goods/Unsolved/returned_goods.py
+  527  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Returned_Goods/Unsolved/returned_goods.py
+  528  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Returned_Goods/Unsolved/returned_goods.py
+  529  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Returned_Goods/Unsolved/returned_goods.py
+  530  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Returned_Goods/Unsolved/returned_goods.py
+  531  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Returned_Goods/Unsolved/returned_goods.py
+  532  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Returned_Goods/Unsolved/returned_goods.py
+  533  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Returned_Goods/Unsolved/returned_goods.py
+  534  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Returned_Goods/Unsolved/returned_goods.py
+  535  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Returned_Goods/Unsolved/returned_goods.py
+  536  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  537  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  538  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  539  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  540  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  541  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/learningLoops.py
+  542  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/learningLoops.py
+  543  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/learningLoops.py
+  544  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/learningLoops.py
+  545  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/learningLoops.py
+  546  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/learningLoops.py
+  547  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/learningLoops.py
+  548  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/finLoops.py
+  549  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/finLoops.py
+  550  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/finLoops.py
+  551  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/finLoops.py
+  552  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/finLoops.py
+  553  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/finLoops.py
+  554  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  555  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  556  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/nestedStructures.py
+  557  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/nestedStructures.py
+  558  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/nestedStructures.py
+  559  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/nestedStructures.py
+  560  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/nestedStructures.py
+  561  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/nestedStructures.py
+  562  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/nestedStructures.py
+  563  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/nestedStructures.py
+  564  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/nestedStructures.py
+  565  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/nestedStructures.py
+  566  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/nestedStructures.py
+  567  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/nestedStructures.py
+  568  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/nestedStructures.py
+  569  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/nestedStructures.py
+  570  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/nestedStructures.py
+  571  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  572  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  573  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Pathways_to_Success_Part_1/Unsolved/csvPractice.py
+  574  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  575  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  576  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Pathways_to_Success_Part_1/Unsolved/csvPractice.py
+  577  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Pathways_to_Success_Part_1/Unsolved/csvPractice.py
+  578  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Pathways_to_Success_Part_1/Unsolved/csvPractice.py
+  579  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Pathways_to_Success_Part_1/Unsolved/csvPractice.py
+  580  pwd
+  581  ls
+  582  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Pathways_to_Success_Part_1/Unsolved/csvPractice.py
+  583  pwd
+  584  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Pathways_to_Success_Part_1/Unsolved/csvPractice.py
+  585  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Pathways_to_Success_Part_1/Unsolved/csvPractice.py
+  586  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Pathways_to_Success_Part_1/Unsolved/csvPractice.py
+  587  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Pathways_to_Success_Part_1/Unsolved/csvPractice.py
+  588  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Pathways_to_Success_Part_1/Unsolved/csvPractice.py
+  589  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Pathways_to_Success_Part_1/Unsolved/csvPractice.py
+  590  ls
+  591  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Pathways_to_Success_Part_1/Unsolved1/csvPractice.py
+  592  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Pathways_to_Success_Part_1/Unsolved1/csvPractice.py
+  593  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/02_Pathways_to_Success_Part_1/Unsolved1/csvPractice.py
+  594  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  595  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  596  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  597  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  598  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  599  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  600  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  601  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  602  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/practice/writingCSV.py
+  603  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/practice/writingCSV.py
+  604  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  605  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  606  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  607  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  608  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  609  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  610  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  611  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  612  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  613  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  614  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  615  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  616  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  617  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  618  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  619  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  620  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  621  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  622  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  623  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  624  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  625  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  626  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  627  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  628  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  629  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  630  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  631  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  632  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  633  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  634  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  635  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  636  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  637  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  638  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  639  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  640  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_files/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  641  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  642  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  643  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  644  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  645  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  646  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  647  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  648  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  649  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  650  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  651  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  652  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  653  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  654  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  655  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  656  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  657  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  658  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  659  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  660  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  661  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  662  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  663  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  664  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  665  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  666  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  667  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  668  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  669  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  670  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  671  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  672  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  673  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  674  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  675  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  676  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  677  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  678  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  679  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  680  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  681  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w1/module_1_challenge/loan_analyzer.py
+  682  rocketpool
+  683  ssh -i "rplSmrtNodTest1.pem" ubuntu@ec2-52-30-72-130.eu-west-1.compute.amazonaws.com
+  684  ls
+  685  cd .ssh
+  686  ssh -i "rplSmrtNodTest1.pem" ubuntu@ec2-52-30-72-130.eu-west-1.compute.amazonaws.com
+  687  ssh -i "rplSmrtNodTest1.pem" ubuntu@ec2-52-30-72-130.eu-west-1.compute.amazonaws.com
+  688  fingerprint
+  689  ls
+  690  chmod 400 rplSmrtNodTest1.pem
+  691  cd /
+  692  ls
+  693  cd Users
+  694  ls
+  695  cd zrowgz
+  696  ls
+  697  cd Documents
+  698  ls
+  699  ls
+  700  ls
+  701  ls -a
+  702  sudo ls
+  703  sudo ls
+  704  cd [[
+  705   cd ..
+  706  ls
+  707  cd Desktop
+  708  ls
+  709  cd fintech-workspace
+  710  ls w1
+  711  cd module_files
+  712  module_files
+  713  cd w1
+  714  ls
+  715  cd module_files
+  716  ls
+  717  cd 02_Pathways_to_Success_Part_1
+  718  ls
+  719  cd Unsolved
+  720  ls
+  721  csvPractice.py
+  722  python csvPractice.py
+  723  dev activate
+  724  conda activate dev
+  725  csvPractice.py
+  726  ls
+  727   quarterly_data.csv
+  728  open
+  729  open csvPractice.py
+  730  echo csvPractice.py
+  731  python csvPractice.py
+  732  print csvPractice.py
+  733  csvPractice.py
+  734  open csvPractice.py
+  735  conda deactivate
+  736  pip -v
+  737  pip --version
+  738  pip freeze
+  739  conda activate dev
+  740  pip -V
+  741  pip freeze
+  742  pip install fire
+  743  pip install questionary
+  744  cd ..
+  745  cd .. 
+  746  ls
+  747  cd ll
+  748  cd ..
+  749  cd ..
+  750  la
+  751  ls
+  752  cd w2
+  753  ls
+  754  cd m2
+  755  ls
+  756  cd 01_Loan_Qualifier_Financial_Calculations
+  757  ls
+  758  cd Unsolved
+  759  ls
+  760  app.py
+  761  python
+  762  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w2/m2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  763  ls
+  764  cd Desktop
+  765  ls
+  766  ls -a
+  767  cd fintech-workspace
+  768  ls
+  769  cd w2
+  770  cd m2
+  771  ls
+  772   cd 01_Loan_Qualifier_Financial_Calculations
+  773  ls
+  774  cd Unsolved
+  775  cd
+  776  ls
+  777  cd Desktop
+  778  cd fintech-workspace
+  779  cd w2
+  780  cd m2
+  781   cd 01_Loan_Qualifier_Financial_Calculations
+  782  ls
+  783  cd Unsolved
+  784  ls
+  785  python app.py
+  786  open app.py
+  787  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w2/m2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  788  cd .. 
+  789  cd
+  790  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w2/m2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  791  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w2/m2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  792  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w2/m2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  793  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w2/class1/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  794  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w2/class1/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  795  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w2/class1/01_Stu_Python_Code_Drills/Unsolved/02-lists-01/Unsolved/lists-01.py
+  796  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w2/class1/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py
+  797  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w2/class1/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  798  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w2/class1/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  799  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w2/class1/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  800  ls
+  801  cd atm
+  802  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w2/class1/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  803  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w2/class1/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  804  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w2/class1/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  805  conda activate dev
+  806  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w2/class1/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  807  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w2/class1/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  808  ls
+  809  cd data
+  810  pwd
+  811  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w2/m2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  812  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w2/m2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  813  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w2/m2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  814  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w2/m2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  815  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w2/m2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  816  pip install fire
+  817  conda activate dev
+  818  ls
+  819   cd Desktop
+  820  ls
+  821  cd fintech-workspace
+  822  ls
+  823  cd w2
+  824  ls
+  825  cd m2
+  826  ls
+  827  python cli.py
+  828  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w2/m2/cli.py
+  829  conda activate dev
+  830  pip install fire
+  831  /usr/local/bin/python3 /Users/zrowgz/Desktop/fintech-workspace/w2/m2/cli.py
+  832  conda activate dev
+  833  conda install fire -c conda-forge
+  834  python cli.py
+  835  python cli.py
+  836  source /Users/zrowgz/opt/anaconda3/bin/activate
+  837  conda activate dev
+  838  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/w2/m2/cli.py
+  839  python cli.py
+  840  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/w2/m2/cli.py
+  841  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/w2/m2/cli.py
+  842  python cli.py --pants=True
+  843  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/w2/m2/cli.py
+  844  python cli.py --pants=True
+  845  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/w2/m2/cli.py
+  846  python cli.py --pants=True
+  847  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/w2/m2/cli.py
+  848  source /Users/zrowgz/opt/anaconda3/bin/activate
+  849  conda activate dev
+  850  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/w2/class2/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  851  source /Users/zrowgz/opt/anaconda3/bin/activate
+  852  conda activate dev
+  853  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/w2/class2/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py
+  854  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python
+  855  source /Users/zrowgz/opt/anaconda3/bin/activate
+  856  conda activate dev
+  857  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/w2/m2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  858  python app.py --credit_score=750
+  859  python app.py --credit_score=750
+  860  python app.py --credit_score=750 --debt=5000 ==income=60000
+  861  python app.py --credit_score=750 --debt=5000 --income=60000
+  862  python dialog.py
+  863  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/w2/m2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/dialog.py
+  864  yes
+  865  python dialog.py
+  866  source /Users/zrowgz/opt/anaconda3/bin/activate
+  867  conda activate dev
+  868  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/w2/m2/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  869  python app.py --credit_score=750 --debt=5000 --income=20000
+  870  python app.py
+  871  open readme.md
+  872  source /Users/zrowgz/opt/anaconda3/bin/activate
+  873  conda activate dev
+  874  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/w2/challenge2/loan_qualifier_app/app.py
+  875  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/w2/challenge2/loan_qualifier_app/app.py
+  876  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/w2/challenge2/loan_qualifier_app/app.py
+  877  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/w2/challenge2/loan_qualifier_app/app.py
+  878  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/w2/challenge2/loan_qualifier_app/app.py
+  879  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/w2/challe
+  880  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/w2/challenge2/loan_qualifier_app/app.py
+  881  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/w2/challenge2/loan_qualifier_app/app.py
+  882  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/w2/challenge2/loan_qualifier_app/app.py
+  883  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/w2/challenge2/loan_qualifier_app/app.py
+  884  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/w2/challenge2/loan_qualifier_app/app.py
+  885  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/w2/challenge2/loan_qualifier_app/app.py
+  886  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/w2/challenge2/loan_qualifier_app/app.py
+  887  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/w2/challenge2/loan_qualifier_app/app.py
+  888  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/w2/challenge2/loan_qualifier_app/app.py
+  889  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/w2/challenge2/loan_qualifier_app/app.py
+  890  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/w2/challenge2/loan_qualifier_app/app.py
+  891  ./loan_qualifier_app/data/daily_rate_sheet.csv
+  892  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/w2/challenge2/loan_qualifier_app/app.py
+  893  /Users/zrowgz/opt/anaconda3/envs/dev/bin/python /Users/zrowgz/Desktop/fintech-workspace/w2/challenge2/loan_qualifier_app/app.py
+  894  history 50 > terminal_history.txt
+  895  conda activate dev
+  896  conda install fire -c conda-forge
+  897  conda cli.py
+  898  run cli.py
+  899  open cli.py
+  900  python cli.py --pants=True
+  901  ls
+  902  cd Desktop
+  903  ls
+  904  cd fintech-workspace
+  905  ls
+  906  cd wk
+  907  cd w2
+  908  ls
+  909  cd m2
+  910  ls
+  911  python cli.py --pants=True
+  912  conda deactivate
+  913  conda create -n atmdev python=3.7 anaconda
+  914  conda activate atmdev
+  915  ls
+  916  cd ..
+  917  ls
+  918  class2
+  919  cd class2
+  920  ls
+  921  cd 01_Ins_ATM_Application
+  922  cd ..
+  923  ls
+  924  cd 03_Stu_Create_Github_Repository
+  925  ls
+  926  git clone https://github.com/ZrowGz/atm.git
+  927  git status
+  928  ls
+  929  cd atm
+  930   ls
+  931  git status
+  932  git add
+  933  git add .
+  934  git commit -m
+  935  git commit -m first commit
+  936  git commit -m "First Commit"
+  937  git push
+  938  cd ..
+  939  ls
+  940  git clone
+  941  cd atm
+  942  cd ..
+  943  cd
+  944  ls
+  945  cd Desktop
+  946  cd fintech-workspace
+  947  ls
+  948  cd w2
+  949  ls
+  950  cd class2
+  951  ls
+  952  cd 03_Stu_Create_Github_Repository
+  953  ls
+  954  git clone git@github.com:ZrowGz/atm.git
+  955  ls
+  956  cd atm
+  957  git status
+  958  git add README.md
+  959  git status
+  960  git add .
+  961  git status
+  962  git commit -m "Initial commit."
+  963  git push
+  964  conda list pandas
+  965  conda list jupyterlab
+  966  conda deactivate
+  967  conda update conda
+  968  conda update anaconda
+  969  conda create -n dev python=3.7
+  970  conda activate dev
+  971  conda list pandas
+  972  conda install pandas
+  973  conda install jupyterlab
+  974  pip install questionary
+  975  pip install fire
+  976  fire --version 
+  977  anaconda --version
+  978  anaconda -v
+  979  conda list
+  980  conda list pandas
+  981  conda list jupyterlab
+  982   conda deactivate
+  983  anaconda --version
+  984  update anaconda
+  985  conda info --envs
+  986  clear~
+  987  clear
+  988  conda activate dev
+  989  python -m ipykernel install --user --name dev --display-name "Python (dev)"
+  990  jupyter lab
+  991  conda activate dev
+  992  jupyter lab
+  993  deactivate conda dev
+  994  conda deavtivate
+  995  conda deactivate
+  996  conda activate dev
+  997  jupyter lab
+  998  conda list
+  999  conda install -c conda-forge matplotlib
+ 1000  jupyter lab
+ 1001  ls
+ 1002  cd Desktop
+ 1003  cd fintech-workspace
+ 1004  ls
+ 1005  cd w2
+ 1006  ls
+ 1007  mkdir challenge_2_repo
+ 1008  cd challenge_2_repo
+ 1009  git clone git@github.com:ZrowGz/uw-challenge-2.git
+ 1010  ls
+ 1011  cd uw-challenge-2
+ 1012  ls
+ 1013  git status
+ 1014  git add .
+ 1015  git status
+ 1016  git commit -a -m "README finalized, app commented, images added, cli verified."
+ 1017  git push origin main
+ 1018  git status
